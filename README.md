@@ -1,6 +1,7 @@
-# The Internet and HTML
+# Master HTML 
 
 ## What is the Internet?
+![working of internet](https://github.com/user-attachments/assets/c29a450c-ce51-4098-b036-a2ea3701dabf)
 
 The Internet is a global network of interconnected computers and servers that communicate with each other using standardized protocols. It allows users to access and share data, communicate with others, and use various online services.
 
