@@ -55,7 +55,7 @@ HTML tags define elements on a web page. They typically come in pairs: an openin
 
 Headings
 
-HTML headings are defined using <h1>, <h2>, <h3>, etc. They are used to define headings on a web page.
+HTML headings are defined using <h1>, <h2>, <h3> etc. They are used to define headings on a web page.
 
 ```
 <h1>Main Heading</h1>
