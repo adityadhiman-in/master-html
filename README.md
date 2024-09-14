@@ -190,3 +190,13 @@ HTML5 introduced the <canvas> element for dynamic graphics and the <svg> element
 4. Use semantic HTML elements to provide meaning to the structure of your HTML document.
 
 
+## Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+- [Website](https://adityadhiman.in)
+- [GitHub](https://github.com/adityadhiman-in)
+- [LinkedIn](https://www.linkedin.com/in/adityadhiman-in)
+
+Made with ❤️ by [Aditya Dhiman](https://adityadhiman.in)
+
