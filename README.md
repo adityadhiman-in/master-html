@@ -2,6 +2,8 @@
 
 ## What is the Internet?
 
+![the internet](https://github.com/user-attachments/assets/ceafe694-70b1-468d-8693-9224ce6048e2)
+
 The Internet is a global network of interconnected computers and servers that communicate with each other using standardized protocols. It allows users to access and share data, communicate with others, and use various online services.
 
 ## How does the Internet work?
