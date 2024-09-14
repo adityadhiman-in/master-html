@@ -123,8 +123,6 @@ Common semantic HTML elements include:
 
 ### Creating a Table
 
-HTML tables are defined using the <table>, <tr>, and <td> tags.
-
 ```
 <table>
 
