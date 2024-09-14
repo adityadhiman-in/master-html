@@ -1,11 +1,12 @@
 # Master HTML 
 
 ## What is the Internet?
-![working of internet](https://github.com/user-attachments/assets/c29a450c-ce51-4098-b036-a2ea3701dabf)
 
 The Internet is a global network of interconnected computers and servers that communicate with each other using standardized protocols. It allows users to access and share data, communicate with others, and use various online services.
 
 ## How does the Internet work?
+
+![working of internet](https://github.com/user-attachments/assets/c29a450c-ce51-4098-b036-a2ea3701dabf)
 
 The Internet works by using a system of interconnected networks that use standardized protocols to communicate with each other. When you enter a URL into your web browser, your computer sends a request to a server, which then sends the requested data back to your computer. This data is transmitted over the Internet using protocols such as TCP/IP (Transmission Control Protocol/Internet Protocol).
 
