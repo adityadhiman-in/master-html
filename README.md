@@ -63,8 +63,6 @@ Headings
 
 ## Paragraphs
 
-Paragraphs are defined using the <p> tag.
-
 ```
 <p>This is a paragraph of text.</p>
 ```
@@ -153,8 +151,6 @@ HTML tables are defined using the <table>, <tr>, and <td> tags.
 
 ### Creating a Form
 
-HTML forms are defined using the <form> tag.
-
 ```
 <form>
 
@@ -171,7 +167,7 @@ HTML forms are defined using the <form> tag.
 
 ## New Semantic Elements
 
-HTML5 introduced new semantic elements like <header>, <nav>, and <footer>.
+```HTML5 introduced new semantic elements like <header>, <nav>, and <footer>.```
 
 ## Multimedia
 
