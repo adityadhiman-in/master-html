@@ -68,9 +68,8 @@ HTML elements are used to structure web content. Each element serves a specific 
 
 HTML provides six levels of headings, from `<h1>` to `<h6>`, with `<h1>` being the most important and `<h6>` the least.
 
-`<h1>Main Heading</h1>
-<h2>Subheading</h2>
-<h3>Sub-subheading</h3>`
+`<h1>Main Heading</h1>`
+`<h2>Subheading</h2>`
 
 ### Paragraphs
 
